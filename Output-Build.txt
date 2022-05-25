@@ -1,0 +1,13 @@
+﻿1>------ Rebuild All started: Project: shobhit_testPrj, Configuration: Debug x86 ------
+1>D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\Forms\GlobalClass.cs(94,30,94,31): warning CS0168: The variable 'e' is declared but never used
+1>D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\Forms\Tr_SaleFrm.cs(180,30,180,32): warning CS0168: The variable 'ex' is declared but never used
+1>D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\Forms\Tr_SaleFrm.cs(291,30,291,33): warning CS0168: The variable 'tex' is declared but never used
+1>D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\Forms\Tr_SaleFrm.cs(846,30,846,32): warning CS0168: The variable 'ex' is declared but never used
+1>D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\Forms\Tr_SaleFrm.cs(860,30,860,33): warning CS0168: The variable 'exx' is declared but never used
+1>D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\Forms\Tr_SaleFrm.cs(870,30,870,33): warning CS0168: The variable 'exx' is declared but never used
+1>D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\Forms\Tr_SaleFrm.cs(897,34,897,36): warning CS0168: The variable 'ex' is declared but never used
+1>D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\Forms\Tr_SaleFrm.cs(904,30,904,33): warning CS0168: The variable 'ex1' is declared but never used
+1>D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\Forms\Tr_SaleFrm.cs(953,34,953,36): warning CS0168: The variable 'ex' is declared but never used
+1>D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\Forms\Tr_SaleFrm.cs(981,34,981,36): warning CS0168: The variable 'ex' is declared but never used
+1>  shobhit_testPrj -> D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

@@ -1,0 +1,1061 @@
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Test Program\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Tocken.resources
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Tocken.resources
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Temp Working\raj\SHO\New Folder\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmReport.resources
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Tocken.resources
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Temp Working\raj\SHO\Rest Test\shobhit_testPrj\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Tocken.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\Restra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Tocken.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Tocken.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\Working Soft\Restra\ShoRestra 04-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Tocken.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+G:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+G:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+G:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Tocken.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Tocken.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\Working Soft\Spicyspoons\SpicySpoon\ShoRestra 11-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Tocken.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 13-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 14-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+G:\Spice Spoon\ShoRestra 15-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+K:\Spice Spoon\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\Working Soft\Spicyspoons\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+J:\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+J:\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+J:\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+J:\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+J:\ShoRestra 21-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+J:\ShoRestra 21-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 23-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 25-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 25-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+K:\Spice Spoon\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 29-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\SpicySpoon\ShoRestra 30-July-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 01-08-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Temp Working\raj\SH\Rest Test\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 02-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+F:\Working Data\Current Proj\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csprojResolveAssemblyReference.cache
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csproj.GenerateResource.Cache
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+E:\Window Projects\Spice Spoon\SH\ShoRestra 26-Aug-2013\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csprojResolveAssemblyReference.cache
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csproj.GenerateResource.Cache
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+E:\Window Projects\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+E:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+E:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+E:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-03-2014\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+E:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+E:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+E:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csprojResolveAssemblyReference.cache
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csproj.GenerateResource.Cache
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 10-10-2014 - Copy\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csprojResolveAssemblyReference.cache
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgTaxReport.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Taxt.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csproj.GenerateResource.Cache
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 17-11-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgDuplicateBillReportDateWise.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgTaxReport.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Taxt.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csproj.GenerateResource.Cache
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 02-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgDuplicateBillReportDateWise.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgTaxReport.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Taxt.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csproj.GenerateResource.Cache
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\Window Projects\Software data\Spice Spoon\SH\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgDuplicateBillReportDateWise.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgTaxReport.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_ManageRights.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Taxt.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_UserTypes.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csproj.GenerateResource.Cache
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\bin\RAHMS.accdb
+D:\ShobhitNewFolder\Cemila\Spicy\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_Location.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csprojResolveAssemblyReference.cache
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgDuplicateBillReportDateWise.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgTaxReport.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_ManageRights.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Taxt.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_UserTypes.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_Location.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csproj.GenerateResource.Cache
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\bin\RAHMS.accdb
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_TaxMaster.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_SeriesMaster.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_ItemMaster.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_Unit.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_MenuAndSubMenu.resources
+E:\Projects\Camila\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_CounterSale.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.config
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.pdb
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgDuplicateBillReportDateWise.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgItemWiseSaleRpt.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgSaleReportDateWise.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlglSaleSummaryReport.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.DlgTaxReport.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.FrmTruncte.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Login.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_Report.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Frm_User.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.MDI.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Counter.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Item.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_ManageRights.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_MenuAndSubMenu.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_Taxt.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Mst_UserTypes.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_CounterSale.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_ItemMaster.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_Location.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_SeriesMaster.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_TaxMaster.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_Unit.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleFrm1.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.Tr_SaleSearch.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Properties.Resources.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csproj.GenerateResource.Cache
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\bin\RAHMS.accdb
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe.manifest
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.application
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.exe
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\bin\Debug\shobhit_testPrj.pdb
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.TrustInfo.xml
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.exe.manifest
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.application
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_Discount.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.Forms.RAHMS.Frm_DiscountPopup.resources
+E:\Projects\ShoRestra 06-12-2016\ShoRestra 06-12-2016\shobhit_testPrj\obj\x86\Debug\shobhit_testPrj.csprojResolveAssemblyReference.cache

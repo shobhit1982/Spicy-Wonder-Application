@@ -1,0 +1,645 @@
+E:\Projects\RAHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.config
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.pdb
+E:\Projects\RAHMS\RAHMS\Rahms_App\bin\Debug\bin\RAHMS.accdb
+E:\Projects\RAHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.manifest
+E:\Projects\RAHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.application
+E:\Projects\RAHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe
+E:\Projects\RAHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.pdb
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.application
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.frm_Adminpassword.resources
+E:\Projects\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csprojResolveAssemblyReference.cache
+D:\Project\Restaurent\RAHMS\Rahms_App\bin\Debug\bin\RAHMS.accdb
+D:\Project\Restaurent\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.config
+D:\Project\Restaurent\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.manifest
+D:\Project\Restaurent\RAHMS\Rahms_App\bin\Debug\RAHMS.application
+D:\Project\Restaurent\RAHMS\Rahms_App\bin\Debug\RAHMS.exe
+D:\Project\Restaurent\RAHMS\Rahms_App\bin\Debug\RAHMS.pdb
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.application
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe
+D:\Project\Restaurent\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.pdb
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\bin\Debug\bin\RAHMS.accdb
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.config
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.manifest
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\bin\Debug\RAHMS.application
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\bin\Debug\RAHMS.exe
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\bin\Debug\RAHMS.pdb
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.application
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.pdb
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+D:\StableRAH\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csprojResolveAssemblyReference.cache
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.config
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.pdb
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\bin\Debug\bin\RAHMS.accdb
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.manifest
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\bin\Debug\RAHMS.application
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\bin\Debug\RAHMS.exe
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\bin\Debug\RAHMS.pdb
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csprojResolveAssemblyReference.cache
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+D:\StableRAHMS\Pardeep\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.application
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.config
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.pdb
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\bin\Debug\bin\RAHMS.accdb
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.manifest
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.application
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.pdb
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csprojResolveAssemblyReference.cache
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.application
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+D:\StableRAHMS\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.config
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.manifest
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.application
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.pdb
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.UserWiseSaleReport.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.application
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.pdb
+D:\DemoApp\StableRMHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csprojResolveAssemblyReference.cache
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.config
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.pdb
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.manifest
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\bin\Debug\RAHMS.application
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\bin\Debug\RAHMS.exe
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\bin\Debug\RAHMS.pdb
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csprojResolveAssemblyReference.cache
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.UserWiseSaleReport.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+D:\Project\Restaurent\8July\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.application
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.config
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.manifest
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\bin\Debug\RAHMS.application
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\bin\Debug\RAHMS.exe
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\bin\Debug\RAHMS.pdb
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.UserWiseSaleReport.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.application
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.pdb
+D:\Project\Restaurent\RAHMS_21july\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csprojResolveAssemblyReference.cache
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.config
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.manifest
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\bin\Debug\RAHMS.application
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\bin\Debug\RAHMS.exe
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\bin\Debug\RAHMS.pdb
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.UserWiseSaleReport.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.application
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe
+D:\DemoApp\StableRMHMS\RAHMS_22_08\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.pdb
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.config
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe.manifest
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.application
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.exe
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\bin\Debug\RAHMS.pdb
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.UserWiseSaleReport.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.application
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.exe
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.pdb
+E:\Personal Data\CS\RAHMS\RAHMS\Rahms_App\obj\x86\Debug\RAHMS.csprojResolveAssemblyReference.cache
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\bin\Debug\RAHMS.exe.config
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\bin\Debug\RAHMS.exe.manifest
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\bin\Debug\RAHMS.application
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\bin\Debug\RAHMS.exe
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\bin\Debug\RAHMS.pdb
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.UserWiseSaleReport.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.application
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.exe
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.pdb
+E:\GooglDrivefolder\Current Working Backup\RAHMS 19-12-2017\Rahms_App\obj\x86\Debug\RAHMS.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\bin\Debug\RAHMS.exe.config
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\bin\Debug\RAHMS.exe.manifest
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\bin\Debug\RAHMS.application
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\bin\Debug\RAHMS.exe
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\bin\Debug\RAHMS.pdb
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_OrderType.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DlgCreditReport.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.UserWiseSaleReport.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.frmDlgOrdertype.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.Cache
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.application
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.exe
+C:\Users\admin\source\alldotnetcode\RAHMS 08-02-2019\RAHMS 08-02-2019\Rahms_App\obj\x86\Debug\RAHMS.pdb
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\RAHMS.exe.config
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\RAHMS.exe.manifest
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\RAHMS.application
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\RAHMS.exe
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\RAHMS.pdb
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportSource.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.Shared.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\FlashControlV71.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\ShockwaveFlashObjects.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\bin\Debug\stdole.dll
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_OrderType.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DlgCreditReport.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.UserWiseSaleReport.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.frmDlgOrdertype.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.cache
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.csproj.CoreCompileInputs.cache
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.application
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.csproj.CopyComplete
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.exe
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.pdb
+L:\Projects\2_Dotnetspider\Achman\Rahms_App\obj\x86\Debug\RAHMS.csprojAssemblyReference.cache
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\RAHMS.exe.config
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\RAHMS.exe.manifest
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\RAHMS.application
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\RAHMS.exe
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\RAHMS.pdb
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportSource.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.Shared.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\FlashControlV71.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\ShockwaveFlashObjects.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\bin\Debug\stdole.dll
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_OrderType.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DlgCreditReport.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.UserWiseSaleReport.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.frmDlgOrdertype.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.cache
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.csproj.CoreCompileInputs.cache
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.application
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.csproj.CopyComplete
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.exe
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.pdb
+L:\Projects\2_Dotnetspider\Shobhit\Achman\Rahms_App\obj\x86\Debug\RAHMS.csproj.AssemblyReference.cache
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\RAHMS.exe.config
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\RAHMS.exe.manifest
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\RAHMS.application
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\RAHMS.exe
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\RAHMS.pdb
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.Shared.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\FlashControlV71.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\ShockwaveFlashObjects.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\stdole.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.csprojAssemblyReference.cache
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_OrderType.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DlgCreditReport.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.UserWiseSaleReport.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.frmDlgOrdertype.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.cache
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.application
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.csproj.CopyComplete
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.exe
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Achman\Rahms_App\obj\x86\Debug\RAHMS.pdb
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\RAHMS.exe.config
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\RAHMS.exe.manifest
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\RAHMS.application
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\RAHMS.exe
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\RAHMS.pdb
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.Shared.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\FlashControlV71.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\ShockwaveFlashObjects.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\stdole.dll
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_OrderType.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CancelBillSummary.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.CardPaymentReport.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DailySalesReport.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DlgCreditReport.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.DuplicateCashMemoReport.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.frmReportViewer.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Report.UserWiseSaleReport.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.frmDlgOrdertype.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_AdminPassword.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Sales.Frm_PendingBills.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_Login.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Frm_User.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.MDI.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_ManageRights.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_MenuAndSubMenu.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.Mst_UserTypess.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_CounterSale.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Discount.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_DiscountPopup.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_ItemMaster.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Location.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_SeriesMaster.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_TaxMaster.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Forms.RAHMS.Frm_Unit.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.Properties.Resources.resources
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.csproj.GenerateResource.cache
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.TrustInfo.xml
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.exe.manifest
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.application
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.csproj.CopyComplete
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.exe
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.pdb
+E:\GooglDrivefolder\Current Working Backup\Mukesh Restorent Application\Achman_code\Spicy Wonder\Rahms_App\obj\x86\Debug\RAHMS.csprojAssemblyReference.cache
